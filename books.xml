@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<records>
+<bookdb>
     <book>
 <ISBN> 9789750148491 </ISBN>
 <title> Radyo ve Radyoculuk	</title>
@@ -242,4 +242,4 @@
 <page> 384 </page>
 <URL> http://www.idefix.com/kitap/hizmet-kalitesi-kavramlar-yaklasimlar-ve-uygulamalar-kolektif/tanim.asp?sid=JR1BFXD7JK3KKQXDXONN </URL>
 	</book>
-</records>
+</bookdb>
